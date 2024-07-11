@@ -1,2 +1,2 @@
-# congenial-telegram
-practice python and sql
+# mores_code
+This converts letters into mores code
